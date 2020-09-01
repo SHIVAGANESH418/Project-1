@@ -16,4 +16,4 @@ while(True):
      greater += 1
    
  #Display result
- print("The L.C.M. is", 1cm)
+ print("The L.C.M. is", lcm)
